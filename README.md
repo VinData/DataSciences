@@ -1,3 +1,5 @@
+bugfix 1001
+
 v1.1.1
 
 Apply hotfix
